@@ -1,0 +1,12 @@
+body {
+  background-color: #343a40 ;
+  color: #fff;
+}
+
+.dice {
+  height: 10em  !important;
+  width: 10em !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
